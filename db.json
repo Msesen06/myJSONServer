@@ -1,0 +1,49 @@
+[
+    { "isim":"Ali",
+     "numara": 1},
+
+    {"isim": "Mehmet",
+     "numara": 2},
+
+     { "isim":"Ali",
+     "numara": 1},
+
+    {"isim": "Mahmut",
+     "numara": 3},
+
+     { "isim":"Veli",
+     "numara": 4},
+
+    {"isim": "Ayşe",
+     "numara": 5},
+
+     { "isim":"Hasan",
+     "numara": 6},
+
+    {"isim": "Mustafa",
+     "numara": 7},
+
+
+     { "isim":"Rukiye",
+     "numara": 8},
+
+    {"isim": "Emine",
+     "numara": 8},
+
+     { "isim":"Seyit",
+     "numara": 9},
+
+    {"isim": "Sevgi",
+     "numara": 10},
+
+     { "isim":"Feride",
+     "numara": 11},
+
+    {"isim": "Kadir",
+     "numara": 12}
+
+]
+
+   
+
+
